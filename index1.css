@@ -1,0 +1,192 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #b5a595;
+}
+#icon{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 28px;
+   font-weight: bold;
+}
+span{
+    margin-left: 1%;
+    font-size: 33px;
+    color: #f61c0d
+}
+#social{
+    float: right;
+    margin-top: 10px;
+    width: 30%;
+
+}
+nav{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+#social img{
+    height: 30px;
+    float: left;
+}
+.search{
+    width: 100%;
+    height: 400px;
+   background-image: url( "https://i.ibb.co/q1YCDRL/lily-banse-YHSwy6uqvk-unsplash.jpg");
+   background-size: 100% 400px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-top: 150px;
+    margin-left: 43%;
+    background-color: #ffffff;
+    position: absolute;
+    border-radius: 50%;
+    font-size: 55px;
+}
+.log{
+    margin-top: 22%;
+    margin-left: 19%;
+    color: #f61c0d;
+
+}
+.ab{
+    margin-top: 257px;
+    margin-left: 25%;
+    position: absolute;
+    font-size: 36px;
+    color: #ffffff;
+}
+.Dropdown{
+    width: 40%;
+    height: 37px;
+    margin-top: 316px;
+    margin-left: 29%;
+   
+    position: absolute;
+  }
+  .s{
+      width: 50%;
+      height: 30px;
+      float: left;
+      text-align: center;    
+  }
+  .Quicksearch{
+    background-color: #8f878438;
+  }
+.Main{
+    height: 550px;
+    width: 80%;
+     margin-left: 10%;
+    
+}
+.heading{
+    color: tomato;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2%;
+ 
+
+}
+.subheading{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 2%;
+}
+.tilecontainer{
+    height: 180px;
+    width: 30%;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 2%;
+    border-radius: 10%;
+    box-shadow:10px -9px 12px #ffffff;
+}
+.tilecomponent1{
+    height: 180px;
+    width: 50%;
+        float: left;
+}
+.tilecomponent1 img{
+    height: 180px;
+    width: 100%;
+    border-top-left-radius:10% ;
+    border-bottom-left-radius: 10%;
+ }
+.tilecomponent2{
+    height: 180px;
+    width: 50%;
+        float: left;
+        background-color:#817e7e;
+        border-top-right-radius:10% ;
+        border-bottom-right-radius: 10%;
+}
+.Componentheading{
+    color: #fdac06;
+    font-size: 24px;
+    margin-top: 15%;
+    margin-left: 11%
+}
+ 
+.Componentsubheading {
+    color: #dcf9ff;
+    font-size: 16px;
+    margin-top: 4%;
+    margin-left: 12%;
+}
+.footer{
+    height: 180px;
+    width: 100%;
+    margin-bottom: 1px;
+}
+.f1{
+    height: 50px;
+    width: 100%;
+    background-color:#b5a595;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.f2{
+    height: 130px;
+    width: 100%;
+    background-color:#b5a595;
+    text-align: center;
+  
+}
+.f2a{
+    width: 33%;
+    float: left;
+    line-height: 4%;
+}
+.f2b{
+    width: 33%;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    float: left;
+    line-height: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
